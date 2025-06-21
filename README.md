@@ -3,4 +3,4 @@
 ### 　
 ### <p align="center"><img src="P_np_np-complete_np-hard.svg.png" width="500"/></p>
 ### 　
-### 3SAT
+### 한 설명은 1971년 Stephen Cook 이 그의
