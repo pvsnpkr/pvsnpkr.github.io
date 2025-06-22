@@ -16,8 +16,7 @@ NP-완비의 대표주자이고 모든 문제 환원의 기준이다.
 ### Vertex Cover / Independent Set / Clique
 ### Partition Problem
 Subset Sum 의 약식버전
-
-
+<br>
 # P = NP 라면?
 <br>
 <br>
