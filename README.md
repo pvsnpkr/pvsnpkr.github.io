@@ -4,9 +4,9 @@ P 대 NP 문제에 대한 정확한 설명은 Stephen Cook 이 그의 선구적 
 <br>
 <br>
 <p align="center"><img src="P_np_np-complete_np-hard.svg.png" width="400"/></p>
-P가 NP에 속하는 건 자명하다. NP문제에 환원은 중요한 개념으로 모든 NP-완비는 SAT으로 환원된다(Cook-Levin 정리). NP-완비 문제중 한가지만 해결해도 모든 NP-완비가 해결되며 P=NP 임이 증명된다.
-
 <p align="center"><b>복잡도 다이어그램</b></p>
+<br>
+P가 NP에 속하는 건 자명하다. NP문제에 환원은 중요한 개념으로 모든 NP-완비는 SAT으로 환원된다(Cook-Levin 정리). NP-완비 문제중 한가지만 해결해도 모든 NP-완비가 해결되며 P=NP 임이 증명된다.
 
 # NP-완전
 ### 3-SAT
