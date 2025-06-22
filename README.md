@@ -7,9 +7,15 @@ P 대 NP 문제에 대한 정확한 설명은 Stephen Cook 이 그의 선구적 
 
 <p align="center"><b>복잡도 다이어그램</b></p>
 
-## 3SAT
+## 3-SAT
 NP-완전의 대표주자이고 모든 문제 환원의 기준이다.
-Subset Sum 약식버전 Partition problem
+## Subset Sum / Knapsack
+## Hamiltonian Path / Cycle
+## Graph Coloring
+## Vertex Cover / Independent Set / Clique
+## Partition Problem
+Subset Sum 의 약식버전
+
 ## P = NP 라면?
 <br>
 <br>
