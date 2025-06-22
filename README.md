@@ -6,3 +6,6 @@ P 대 NP 문제에 대한 정확한 설명은 Stephen Cook 이 그의 선구적 
 NP-완전의 대표주자이다. 모든 문제 환원의 기준이다.
 Subset Sum 약식버전 Partition problem
 ## P = NP 라면?
+
+
+<center>[provepnp@gmail.com](mailto:provepnp@gmail.com)</center>
