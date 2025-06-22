@@ -23,5 +23,6 @@ Subset Sum 의 약식버전
 <br>
 <br>
 <br>
-http://pvsnpkr.github.io/LOGICpvsnpkr.github.io/LOGIC
+http://pvsnpkr.github.io/LOGIC
+
 <p align="center"><a href="mailto:provepnp@gmail.com">provepnp@gmail.com</a></p>
