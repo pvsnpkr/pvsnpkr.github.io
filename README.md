@@ -17,6 +17,7 @@ NP-완비의 대표주자이고 모든 문제 환원의 기준이다.
 ### Partition Problem
 Subset Sum 의 약식버전
 <br>
+<br>
 # P = NP 라면?
 <br>
 <br>
