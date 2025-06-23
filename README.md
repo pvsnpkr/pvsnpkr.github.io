@@ -13,7 +13,7 @@ NP완전에서 아주 직관적인 문제중 하나다. 집합의 부분집합 �
 Hamiltonian Path: 그래프의 모든 정점을 한번씩 방문하는 알고리즘<br>
 Hamiltonian Cycle: 시작점과 끝점이 동일한 헤밀턴 경로<br>
 ### Graph Coloring
-그래프의 각 정점에 같은 색깔이 인접하지 않게 칠하는 방법이다. 이 것으로 그래프의 불변성을 정의할 수 있다.
+그래프의 각 정점에 같은 색깔이 인접하지 않게 칠하는 방법이다. 이것으로 그래프의 불변성을 정의할 수 있다.
 ### Vertex Cover / Independent Set / Clique
 Vertex Cover: 선택한 정점들이 모든 정점들과 연결되어있다. 독립셋과 동치이다. np의 다항시간 해답 검증이 직관적이다.<br>
 Independent Set: 정점이 서로 연결되지 않는 그래프<br>
