@@ -22,10 +22,8 @@ Clique: 부분그래프이면서 임의의 두노드가 서로 연결되어있�
 Subset Sum 의 약식버전
 <br>
 <br>
-# P = NP 라면?
+<a href="http://pvsnpkr.github.io/LOGIC" target="_blank">논리학</a>
 <br>
 <br>
 <br>
-<a href="http://pvsnpkr.github.io/LOGIC" target="_blank">LOGIC</a>
-
 <p align="center"><a href="mailto:provepnp@gmail.com">provepnp@gmail.com</a></p>
