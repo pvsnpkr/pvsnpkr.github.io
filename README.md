@@ -14,6 +14,7 @@ P=NP는 NP문제를 P문제처럼 해결할 수 있는가의 문제이다. P가 
 ### Subset Sum / Knapsack
 NP완전에서 아주 직관적인 문제중 하나다. 집합의 부분집합 중에서 그 합이 0인 경우가 존재하면 참이 된다 {-1, 3, -2, 4} -1+3-2=0 이 집합은 참이다. 부분집합의 합이 0이 아니라 특정 수로 정하면 Knapsack 문제가 된다.
 ### Hamiltonian Path / Cycle
+그래프의 모든 정점을 한번씩 방문하는 알고리즘 / 시작점과 끝점이 동일한 헤밀턴 경로
 ### Graph Coloring
 ### Vertex Cover / Independent Set / Clique
 ### Partition Problem
