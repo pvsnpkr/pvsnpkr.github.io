@@ -16,6 +16,7 @@ NP완전에서 아주 직관적인 문제중 하나다. 집합의 부분집합 �
 ### Hamiltonian Path / Cycle
 그래프의 모든 정점을 한번씩 방문하는 알고리즘 / 시작점과 끝점이 동일한 헤밀턴 경로
 ### Graph Coloring
+그래프의 각 정점에 같은 색깔이 인접하지 않게 칠하는 방법이다. 이 것으로 그래프의 불변성을 정의할 수 있다.
 ### Vertex Cover / Independent Set / Clique
 ### Partition Problem
 Subset Sum 의 약식버전
