@@ -1,2 +1,7 @@
 title: PVSNP.KR
-max-width: 700px;
+
+.container {
+  max-width: 800px;  /* 기본이 1000~1200px일 수 있음 */
+  margin: 0 auto;    /* 가운데 정렬 유지 */
+  padding: 1rem;
+}
