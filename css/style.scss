@@ -1,10 +1,5 @@
-body {
-  font-family: sans-serif;
-  background: #fdfdfd;
-}
-
 .container {
-  max-width: 500px;
-  margin: 0 auto;
-  padding: 20px;
+  max-width: 700px; /* 예: 기본이 1140px이었다면 이걸 줄이기 */
+  margin: 0 auto;   /* 가운데 정렬 */
+  padding: 1rem;    /* 양옆 여백 */
 }
