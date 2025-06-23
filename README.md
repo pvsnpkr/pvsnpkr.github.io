@@ -6,7 +6,7 @@ P 대 NP 문제에 대한 정확한 설명은 Stephen Cook 이 그의 선구적 
 <p align="center"><img src="P_np_np-complete_np-hard.svg.png" width="400"/></p>
 <p align="center"><b>Euler diagram for P, NP, NP-complete</b></p>
 <br>
-P=NP는 NP문제를 P문제처럼 해결할 수 있는가의 문제이다. P가 NP에 속하는 건 자명하다. NP-완전은 NP중에서 어려운 문제로 NP-완전 문제는 다른 NP-완전 문제로 환원 가능하기에 NP-완전 문제중 한가지만 해결해도 모든 NP-완전이 해결되며 P=NP 임이 증명된다.
+P=NP는 NP문제를 P문제처럼 해결할 수 있는가의 문제이다. P가 NP에 속하는 건 자명하다. NP-완전은 NP중에서 어려운 문제로 어떤 NP-완전 문제는 다른 NP-완전 문제로 환원 가능하다. 따라서 NP-완전 문제중 한가지만 해결해도 모든 NP-완전이 해결되며 P=NP 임이 증명된다.
 
 ## NP-완전
 ### 3-SAT
