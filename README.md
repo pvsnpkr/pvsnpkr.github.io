@@ -39,4 +39,4 @@ Hitting Set: 원소들의 집합 U와 부분 집합들의 모임 S가 주어졌�
 <br>
 <br>
 <br>
-<p align="center"><a href="mailto:provepnp@gmail.com">provepnp@gmail.com</a></p>
+<p align="center"><a href="mailto:pvsnp@kakao.com">pvsnp@kakao.com</a></p>
