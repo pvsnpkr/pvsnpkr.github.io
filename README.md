@@ -10,14 +10,19 @@ P=NP는 NP문제를 P문제처럼 해결할 수 있는가의 문제이다. 결�
 ### Subset Sum / Knapsack
 NP완전에서 아주 직관적인 문제중 하나다. 집합의 부분집합 중에서 그 합이 0인 경우가 존재하면 참이 된다 {-1, 3, -2, 4} -1+3-2=0 이 집합은 참이다. 부분집합의 합이 0이 아니라 특정 수로 정하면 Knapsack 문제가 된다.
 ### Hamiltonian Path / Cycle
-Hamiltonian Path: 그래프의 모든 정점을 한번씩 방문하는 알고리즘<br>
-Hamiltonian Cycle: 시작점과 끝점이 동일한 헤밀턴 경로<br>
+Hamiltonian Path: 그래프의 모든 정점을 한번씩 방문하는 알고리즘
+<br>
+Hamiltonian Cycle: 시작점과 끝점이 동일한 헤밀턴 경로
+<br>
 ### Graph Coloring
 그래프의 각 정점에 같은 색깔이 인접하지 않게 칠하는 방법이다. 이것으로 그래프의 불변성을 정의할 수 있다.
 ### Vertex Cover / Independent Set / Clique
-Vertex Cover: 선택한 정점들이 모든 정점들과 연결되어있다. 독립셋과 동치이다. NP의 다항시간 해답 검증이 직관적이다.<br>
-Independent Set: 정점이 서로 연결되지 않는 그래프<br>
-Clique: 부분그래프이면서 임의의 두노드가 서로 연결되어있는 것으로 정의된다. 독립셋과 동치이다.<br>
+Vertex Cover: 선택한 정점들이 모든 정점들과 연결되어있다. 독립셋과 동치이다. NP의 다항시간 해답 검증이 직관적이다.
+<br>
+Independent Set: 정점이 서로 연결되지 않는 그래프
+<br>
+Clique: 부분그래프이면서 임의의 두노드가 서로 연결되어있는 것으로 정의된다. 독립셋과 동치이다.
+<br>
 ### Partition Problem
 Subset Sum 의 약식버전
 
