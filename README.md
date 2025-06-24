@@ -20,6 +20,8 @@ Independent Set: 정점이 서로 연결되지 않는 그래프<br>
 Clique: 부분그래프이면서 임의의 두노드가 서로 연결되어있는 것으로 정의된다. 독립셋과 동치이다.<br>
 ### Partition Problem
 Subset Sum 의 약식버전
+
+### Set Cover ↔ Hitting Set
 <br>
 <br>
 <br>
